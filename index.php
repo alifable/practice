@@ -1,3 +1,3 @@
 <?php
-	echo 'bismillah';
+	echo 'hello words';
 ?>
