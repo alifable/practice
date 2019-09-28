@@ -1,4 +1,3 @@
 <?php
-	echo phpinfo();
-	echo 'Assalamualaikum';
+	echo 'hello words';
 ?>
